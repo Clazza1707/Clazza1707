@@ -1,3 +1,4 @@
+@@ -0,0 +1,10 @@
 +- 👋 Hi, I’m @Clazza1707
 +- 👀 I’m interested in ... " Everything " 
 +- 🌱 I’m currently learning ... " Everything "
